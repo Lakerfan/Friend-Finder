@@ -5,9 +5,9 @@ This is a Node/Express application utlizing Heroku. This application is designed
 
 # All Technologies Used
 
-Node.js
-Express
-Heroku
-Javascript
-jQuery
-Bootstrap
+Node.js ||
+Express ||
+Heroku ||
+Javascript ||
+jQuery ||
+Bootstrap ||
