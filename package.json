@@ -1,0 +1,23 @@
+{
+    "name": "friendfinder",
+    "version": "1.0.0",
+    "description": "This is a Friend Finder App created to match up local singels. As a user, you're also able to score or rank the potential match.",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Lakerfan/Friend-Finder.git"
+    },
+    "author": "Derek Bennett",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Lakerfan/FriendFinder/issues"
+    },
+    "homepage": "https://github.com/Lakerfan/FriendFinder#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
