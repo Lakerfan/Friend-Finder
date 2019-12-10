@@ -17,5 +17,69 @@ var friendsArray =
       1
     ]
 },
+{
+    "name":"Kevin",
+  "photo":"http://www.lse.ac.uk/fmg/assets/images/people/finance-facultty/Peng2-Cropped-200x200-Profile.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+    "name":"Carol",
+  "photo":"https://phr.org/wp-content/uploads/2018/07/Susannah-Sirkin-200x200.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+    "name":"Tiffany",
+  "photo":"https://phr.org/wp-content/uploads/2018/07/Kathryn-Hampton-resized-200x200.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+    "name":"Joe",
+  "photo":"https://floridatax.com/wp-content/uploads/2015/03/LawFirmProfile6c-200x200.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
 ];
 module.exports = friendsArray;
